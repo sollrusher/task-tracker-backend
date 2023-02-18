@@ -5,7 +5,7 @@ const developmentConfig = {
 
 const productionConfig = {
   port: 4000,
-  allowedOrigin: 'http://localhost:4000',
+  allowedOrigin: 'https://fanciful-capybara-a27dac.netlify.app',
 }
 
 module.exports = { developmentConfig, productionConfig }

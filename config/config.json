@@ -1,10 +1,10 @@
 {
   "development": {
-    "username": "root",
-    "password": "root",
-    "database": "tasktracker",
-    "host": "127.0.0.1",
-    "dialect": "mariadb"
+    "username": "bebega",
+    "password": "gm5u4wKqw1GshqF6stZwK2g4150kDmZc",
+    "database": "tasktracker_1fbp",
+    "host": "dpg-cfogfmh4rebfdaol39jg-a",
+    "dialect": "postgres"
   },
   "test": {
     "username": "root",
@@ -14,10 +14,10 @@
     "dialect": "mariadb"
   },
   "production": {
-    "username": "root",
-    "password": "root",
-    "database": "tasktracker",
-    "host": "127.0.0.1",
-    "dialect": "mariadb"
+    "username": "bebega",
+    "password": "gm5u4wKqw1GshqF6stZwK2g4150kDmZc",
+    "database": "tasktracker_1fbp",
+    "host": "dpg-cfogfmh4rebfdaol39jg-a",
+    "dialect": "postgres"
   }
 }

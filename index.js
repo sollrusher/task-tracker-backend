@@ -8,9 +8,8 @@ const userRoute = require('./routes/user');
 const taskRoute = require('./routes/task');
 
 
-// определяем режим
 const isProduction = process.env.NODE_ENV === 'production'
-// выбираем настройки
+console.log('currentenv =',process.env.NODE_ENV);
 let config
 if (isProduction) {
   config = productionConfig
